@@ -1,0 +1,266 @@
+body{
+    background-image: url(imagem/body.jpg);
+    margin: 0px;
+    padding: 0px;
+}
+.d1{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    border: 1px solid black;       
+}
+.d2{
+    border: 1px solid beige;
+    width: 100%;
+    height: 100vh;
+}
+.the{
+    display: table;
+    position: relative;
+    top: 200px;
+    left: 750px;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(99, 121, 71);
+}
+video{
+height: 280px;
+position: relative;
+left: 60px;
+top: 150px;
+}
+ul{
+display: inline-block;
+position: relative;
+top: 75px;
+left: 100px;
+font-size: 20px;
+color: rgb(155, 39, 39);
+font-weight: bold;
+}
+.objetivo{
+display: table;
+position: relative;
+top: 100px;
+left: 550px;
+font-weight: bold;
+color: blue;
+}
+.h1volks{
+color: rgb(99, 121, 71);
+font-size: 40px;
+text-align: center;
+font-family: monospace;
+position: relative;
+top: 150px;
+left: 370px;
+-webkit-text-stroke-width: 1px;
+font-family: serif;
+display: table;
+}
+.seg{
+border: 1px solid beige;
+height: 800px;
+}
+
+h2{
+color: rgb(34, 36, 97);
+position: relative;
+top: 200px;
+right: 16px;
+text-align: center;
+font-size: 37px;
+
+}
+.p{
+display: table;
+font-size: 22px;
+position: relative;
+top: 218px;
+left: 680px;
+color: brown;
+}
+.parte-um h3,a{
+display: table;
+line-height: 30px;
+display: flex;
+justify-content: space-around;
+}
+footer img{
+height: 60px;
+}
+h4{
+color: white;
+font-size: 12px;
+}
+.sense{
+font-family: monospace;
+color: rgb(38, 0, 128);
+font-weight: bold;
+font-size: 30px;
+}
+.volks{
+border: 1px solid beige;
+background-image: url(imagem/VW-T-Cross-The-Town_2.webp);
+width: 100%;
+height: 100vh;
+}
+.log{
+text-align: left;
+position: relative;
+top: 10px;
+font-size: 32px;
+font-family: monospace;
+font-weight: bold;
+color: rgb(255, 254, 254);
+margin: 0px;
+}
+.input{
+position: relative;
+left: 490px;
+top: 200px;
+border: 1px solid green;
+height: 35px;
+}
+.button{
+position: relative;
+left: 500px;
+top: 200px;
+height: 35px;
+width: 150px; 
+color: rgb(0, 2, 0);
+background-color:rgb(99, 121, 71);
+
+}
+.final{
+border: 1px solid beige;
+height: 80vh;
+background-image: url(imagem/logo.jpg);
+}
+.obj{
+display: table;
+position: relative;
+left: 400px;
+display: table;
+color: rgb(197, 225, 238);
+font-size: 30px;
+position: relative;
+top: 150px;
+font-family: monospace;
+}
+.text{
+position: relative;
+top: 50px;
+text-align: center;
+font-size: 35px;
+color: rgb(224, 59, 59);
+font-family: serif;
+font-weight: bold;
+-webkit-text-stroke-width: 1px;
+}
+.colunas{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+color: rgb(228, 227, 230);
+height: 350px;
+margin: 0 25%;
+justify-self: end;
+}
+.coluna1 img{
+height: 50px;
+position: relative;
+top: 100px;
+}
+.coluna2 img{
+height: 50px;
+position: relative;
+top: 100px;
+}
+.icon{
+height: 600px;
+border: 1px solid beige;
+}
+.p2{
+position: relative;
+top: 100px;
+font-size: 15px;
+font-weight: bold;
+}
+.p1{
+position: relative;
+top: 100px;
+font-size: 15px;
+font-weight: bold;
+}
+.hp{
+font-weight: bold;
+color: rgb(99, 121, 71);
+display: table;
+font-size: 32px;
+position: relative;
+top: 150px;
+left: 500px;
+font-family: serif;
+}
+.linhatc{
+display: table;
+position: relative;
+left: 450px;
+color: rgb(30, 73, 30);
+}
+.inputfinal{
+position: relative;
+top: 250px;
+left: 490px;
+border: 1px solid green;
+height: 35px;
+}
+.buttonfinal{
+position: relative;
+top: 250px;
+left: 500px;
+background-color: rgb(64, 80, 44);
+width: 150px;
+height: 35px;
+}
+.h1final{
+display: table;
+position: relative;
+top: 170px;
+left: 490px;
+font-family: serif;
+-webkit-text-stroke-width: 1px;
+color: rgb(95, 143, 90);
+}
+.pfinal{
+display: table;
+position: relative;
+left: 600px;
+top: 170px;
+font-size: 32px;
+font-family: serif;
+color: rgb(95, 143, 90);
+-webkit-text-stroke-width: 1px;
+}
+.primeira {
+    position: relative;
+    top: 300px;
+    left: 550px;
+    height: 80px;
+    margin: 0px 10px;
+
+}
+#segunda{
+    position: relative;
+    top: 300px;
+    left: 550px;
+    height: 80px;
+    border-radius: 250px;
+}
+ #terceira-br{
+    height: 50px;
+    width: 150px;
+    position: relative;
+    top: 300px;
+    left: 550px;
+}
